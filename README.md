@@ -74,6 +74,8 @@ Your task is to create a user interface for our new feature using React.js as th
 -   React.js Documentation
 -   Tailwind CSS Documentation
 -   Flowbite Documentation
+-   TradingView Documentation
+-   Coingecko Documentation
 
 We look forward to seeing your work! Happy coding!
 
